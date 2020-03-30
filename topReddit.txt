@@ -1,0 +1,45 @@
+I've taught 30,000 students how to code. Now I'm offering my course for free, forever.
+https://www.reddit.com/r/learnprogramming/comments/5ed4xg/ive_taught_30000_students_how_to_code_now_im/
+
+I highly recommend Harvard's free, online 2016 CS50 "Intro to CS" course for anyone new to programming
+https://www.reddit.com/r/learnprogramming/comments/4q6tae/i_highly_recommend_harvards_free_online_2016_cs50/
+
+How would people like a series of cartoons of ELI5s for important software engineering concepts?
+https://www.reddit.com/r/learnprogramming/comments/6glirv/how_would_people_like_a_series_of_cartoons_of/
+
+The online course for "Automate the Boring Stuff with Python" is free to sign up this week.
+https://www.reddit.com/r/learnprogramming/comments/bz3rys/the_online_course_for_automate_the_boring_stuff/
+
+The Massachusetts Institute of Technology has a class called ’The missing semester of your computer science education’ It is a collection of things that most developers and data scientists typically teach themselves on the job.
+https://www.reddit.com/r/learnprogramming/comments/fhvhal/the_massachusetts_institute_of_technology_has_a/
+
+How to start learning to code when you don't know where to start
+https://www.reddit.com/r/learnprogramming/comments/6fto5j/how_to_start_learning_to_code_when_you_dont_know/
+
+Cornell's entire Machine Learning class (CS 4780) is now entirely on You Tube. Taught by one of the funniest and best professors I have ever had.
+https://www.reddit.com/r/learnprogramming/comments/bu6645/cornells_entire_machine_learning_class_cs_4780_is/
+
+Just turned 34 and I'm interested in trying a career in computer programming. How much of an uphill battle do I face?
+https://www.reddit.com/r/learnprogramming/comments/9n1gsb/just_turned_34_and_im_interested_in_trying_a/
+
+Would anyone be interested in a website that teaches c++ from complete beginner to more advance concepts?
+https://www.reddit.com/r/learnprogramming/comments/9mq4bt/would_anyone_be_interested_in_a_website_that/
+
+"Automate the Boring Stuff with Python" Udemy course is free to sign up for with code NOV2019FREE
+https://www.reddit.com/r/learnprogramming/comments/drmk30/automate_the_boring_stuff_with_python_udemy/
+
+I made 47 free C++ tutorials on YouTube and wanted to share them with you guys
+https://www.reddit.com/r/learnprogramming/comments/3xo4bo/i_made_47_free_c_tutorials_on_youtube_and_wanted/
+
+I made this free tool for learning programming (it's like Duolingo for learning to code)
+https://www.reddit.com/r/learnprogramming/comments/8gqddo/i_made_this_free_tool_for_learning_programming/
+
+40+ Programming PDF's
+https://www.reddit.com/r/learnprogramming/comments/7zj64e/40_programming_pdfs/
+
+I was pissed at Comcast(Time Warner) so I wrote another python script - This one tweets poor speed test results at them.
+https://www.reddit.com/r/learnprogramming/comments/5iat63/i_was_pissed_at_comcasttime_warner_so_i_wrote/
+
+I'm 32 years old, and just started my first full-time job as a developer. One year ago my programming knowledge was basically nil. Everything I learned, I found via /r/learnprogramming, so just wanted to share my experience.
+https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/
+

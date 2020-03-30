@@ -16,7 +16,7 @@ def create_reddit_obj(json_file="reddit_config.json", json_key="reddit_user_valu
         return reddit
 
 
-reddit = praw.Reddit(client_id='',
+reddit = praw.Reddit(client_id='insert',
                      client_secret='',
                      user_agent='',
                      username='',
